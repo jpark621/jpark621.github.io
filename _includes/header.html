@@ -2,6 +2,7 @@
 <header>
   <div class="menu">
     <ul>
+      <span style='float:left; font-weight: bold; font-size: 13px;'>jin's blog</span>
       {%- for path in page_paths -%}
         {%- assign my_page = site.pages | where: "path", path | first -%}
         {%- if my_page.title -%}
