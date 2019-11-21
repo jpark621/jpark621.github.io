@@ -4,6 +4,11 @@ layout: home
 permalink: /
 ---
 
-# Lorem ipsum
+# about me
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I am a machine learning engineer at [Forethought.ai](https://www.forethought.ai/). I work on making search faster and more accurate. 
+
+My research interests are natural language understanding, model compression, and algorithms. Currently, I work on efficient methods for machine reading and information retrieval with contextualized word embeddings like ELMo and BERT. I participate in data competitions and research conferences to keep up with the latest ideas.
+
+I did my undergrad in UC Berkeley, where I focused on research, teaching, and community building.
+
