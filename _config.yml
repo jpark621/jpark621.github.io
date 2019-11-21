@@ -8,7 +8,7 @@ header_pages:
   - comps.md
   - etc.md
 
-footer: '<a href="">resume</a> / <a href="https://github.com/jpark621">github</a> / <a href="https://www.linkedin.com/in/jinspark621/">linkedin</a>'
+footer: '<a href="https://github.com/jpark621/jpark621.github.io/blob/master/img/Resume_Jin_Park.pdf?raw=true">resume</a> / <a href="https://github.com/jpark621">github</a> / <a href="https://www.linkedin.com/in/jinspark621/">linkedin</a>'
 
 #style: light # dark (default) or light
 #listen_for_clients_preferred_style: true # true or false (default)
