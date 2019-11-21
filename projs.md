@@ -1,7 +1,7 @@
 ---
 layout: page
-title: /jin
-permalink: /jin/
+title: /projs
+permalink: /projs/
 ---
 
 # jin, a deadwood technique
