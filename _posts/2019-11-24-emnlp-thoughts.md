@@ -10,7 +10,7 @@ There are three major natural language processing conferences every year: ACL, N
 
 <br>
 
-There're a lot of really cool ideas, but I've tried to focus on 3 main ideas,involving semantics, question answering, and pragmatics. I won't cover other impactful and interesting topics like generation/surface realization, linguistics/cognitive modeling, fact verification, translation, morphology, and etc.
+There're a lot of really cool ideas, but I've tried to focus on 3 main ideas,involving semantics, question answering, and pragmatics. I won't cover other impactful and interesting topics like generation/surface realization, linguistics/cognitive modeling, fact verification, translation, morphology, etc.
 
 ## How contextual are contextualized word embeddings? (semantics)
 Contextual word embeddings are the state-of-the-art word representations. Unlike lexical (one-hot embedding) and static word embeddings (word2vec, GloVe), contextual word embeddings vary vector representations depending on the surrounding context. For example, say there are two sentences containing a homonym, "the fair lady dressed for the ball" and "the test was not fair". The word "fair" has different meanings, and so require different word embeddings for the same word, Lexical and static word embeddings would treat the word "fair" as the same word. On the other hadn, contextual word embeddings allow you to encode the same words in different word representations depending on the context. Because of this ability, contextualized word embeddings perform state-of-the-art in many tasks.
