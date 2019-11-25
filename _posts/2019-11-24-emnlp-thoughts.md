@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "emnlp thoughts..."
+title:  "emnlp thoughts"
 date:   2019-11-24 12:32:45 +0100
 categories: blog
 ---
